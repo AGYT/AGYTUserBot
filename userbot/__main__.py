@@ -29,8 +29,8 @@ for module_name in ALL_MODULES:
 LOGS.info("You are running OpenUserBot [v7.7.7]")
 
 LOGS.info(
-    "😀😃😄😁😆😅😂🤣😭😗😙😚😘☺️😊🥰😍🤩🤗🙂🙃😉😋😝😝😜🤪🤔🤨🧐🙄😏😒😣😔😌☹️🙁😕😟🥺😬🤐🤫🤭😰😨😧😦😮😯😲😳🤯😢😥😓😞😖😩😫😵😱🤢🤮🤧😷🥴🤒🤕🥵🥶😶😐😑😤😠😡🤬😈👿🤤😴😪😇🤠🤡🤑🥳😎🤓🤥"
-    "\n Creator: http://t.me/AkameNFS")
+    "🍇🍏🥝🍐🥔🍏🥝🍉🥔🥝🍏🍏🍓🍉🍌🍏🥕🥥🥕🍐🥒🌰🥒🍖🥓🌭🥨🧀🌭🥨🥨🍖"
+    "\n Creator: https://t.me/AgusGamingYT")
 
 if len(argv) not in (1, 3, 4):
     bot.disconnect()
